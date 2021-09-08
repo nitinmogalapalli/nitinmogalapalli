@@ -22,7 +22,7 @@
 
   - 📝 Working on various Python projects and automation tools.
   - 🌱 Learning Java.
-  - 👯 Would love to collaborate on Maching learning projects.
+  - 👯 Would love to collaborate on Cyber Security projects.
   - 🤔 Need help in front-end and GUI development.
   - 💬 Ask me about Python and Web Dev.
   - ⚡ Fun fact: I spend most of my time gaming or coding.
