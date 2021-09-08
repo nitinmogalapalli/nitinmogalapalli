@@ -16,6 +16,7 @@
     <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/nitinmogalapalli/nitinmogalapalli/master/assets/SVG/Social/instagram.svg" />
   </a>
   <br />
+   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/nitinmogalapalli/nitinmogalapalli/master/assets/GIF/Gif.gif" />
 </p>
 ### Just another Machine learning, Data science enthusiast 💻 
 
