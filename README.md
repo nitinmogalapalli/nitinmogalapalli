@@ -18,6 +18,7 @@
   <br />
    <img align="center" alt="GIF" src="https://raw.githubusercontent.com/nitinmogalapalli/nitinmogalapalli/master/assets/GIF/Gif.gif" />
 </p>
+![](https://komarev.com/ghpvc/?username=nitnmogalapalli)
 ### Just another Machine learning, Data science enthusiast 💻 
 
   - 📝 Working on various Python projects and automation tools.
