@@ -15,10 +15,13 @@
   <a href="https://www.instagram.com/nitin_mogalapalli/">
     <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/nitinmogalapalli/nitinmogalapalli/master/assets/SVG/Social/instagram.svg" />
   </a>
-  <br />
+  <br /><br />
    <img align="center" alt="GIF" src="https://raw.githubusercontent.com/nitinmogalapalli/nitinmogalapalli/master/assets/GIF/Gif.gif" />
-</p>
-![](https://komarev.com/ghpvc/?username=nitnmogalapalli)
+   <br /> <br />
+<a href="https://github.com/nitinmogalapalli">
+  <img alt="Profile View count" src="https://komarev.com/ghpvc/?username=nitinmogalapalli&style=flat-square&color=brightgreen" />
+  </a>
+   </p>
 ### Just another Machine learning, Data science enthusiast 💻 
 
   - 📝 Working on various Python projects and automation tools.
