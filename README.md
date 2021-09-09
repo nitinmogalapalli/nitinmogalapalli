@@ -14,10 +14,7 @@
 
   <a href="https://www.instagram.com/nitin_mogalapalli/">
     <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/nitinmogalapalli/nitinmogalapalli/master/assets/SVG/Social/instagram.svg" />
-  </a>
-  <a href="https://www.twitch.tv/nitin_mogalapalli"><img alt="Twitch" width="22px" src="https://raw.githubusercontent.com/nitinmogalapalli/nitinmogalapalli/master/assets/SVG/Social/twitch.svg" /></a>
-  <a href="https://www.reddit.com/user/nitin_mogalapalli"><img width="22px" src="https://raw.githubusercontent.com/nitinmogalapalli/nitinmogalapalli/master/assets/SVG/Social/reddit.svg" alt="Reddit"></a>
-  
+  </a>  
   <br /><br />
    <img align="center" alt="GIF" src="https://raw.githubusercontent.com/nitinmogalapalli/nitinmogalapalli/master/assets/GIF/Gif.gif" />
    <br /> <br />
@@ -58,8 +55,6 @@
   <a href="https://www.instagram.com/nitin_mogalapalli/">
     <img alt="Instagram" src="https://raw.githubusercontent.com/nitinmogalapalli/nitinmogalapalli/master/assets/SVG/Contact/instagram.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
-  <a href="https://www.twitch.tv/nitin_mogalapalli"><img src="https://raw.githubusercontent.com/nitinmogalapalli/nitinmogalapalli/master/assets/SVG/Contact/twitch.svg" alt="Twitch" style="vertical-align:top margin:6px 4px"></a>
-   <a href="https://www.reddit.com/user/nitin_mogalapalli"><img src="https://raw.githubusercontent.com/nitinmogalapalli/nitinmogalapalli/master/assets/SVG/Contact/reddit.svg" alt="Reddit" style="vertical-align:top margin:6px 4px"></a>
 </p>
 
 <p align="c">-----------------------------------------------------------------------------------------------------------------------------------------</p>
